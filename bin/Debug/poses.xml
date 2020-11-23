@@ -1,0 +1,82 @@
+<?xml version = "1.0" encoding="UTF-8" ?>
+<lesPoses>
+    <pose>
+        <photo lien="Poses/Pose1Photo.png" />
+        <pieds x_gauche="680" y_gauche="633" x_droit="714" y_droit="633" />
+        <genoux x_gauche="670" y_gauche="500" x_droit="721" y_droit="498" />
+        <coudes x_gauche="568" y_gauche="212" x_droit="821" y_droit="219" />
+        <mains x_gauche="467" y_gauche="206" x_droit="912" y_droit="218" />
+        <epaules x_gauche="636" y_gauche="221" x_droit="749" y_droit="216" />
+        <tete x="690" y="144" />
+    </pose>
+
+    <pose>
+        <photo lien="Poses/Pose2Photo.png" />
+        <pieds x_gauche="616" y_gauche="623" x_droit="795" y_droit="628" />
+        <genoux x_gauche="646" y_gauche="490" x_droit="750" y_droit="490" />
+        <coudes x_gauche="570" y_gauche="211" x_droit="819" y_droit="218" />
+        <mains x_gauche="468" y_gauche="195" x_droit="918" y_droit="210" />
+        <epaules x_gauche="637" y_gauche="224" x_droit="747" y_droit="221" />
+        <tete x="691" y="150" />
+    </pose>
+
+    <pose>
+        <photo lien="Poses/Pose3Photo.png" />
+        <pieds x_gauche="671" y_gauche="635" x_droit="730" y_droit="636" />
+        <genoux x_gauche="666" y_gauche="499" x_droit="733" y_droit="496" />
+        <coudes x_gauche="562" y_gauche="224" x_droit="829" y_droit="235" />
+        <mains x_gauche="546" y_gauche="119" x_droit="829" y_droit="123" />
+        <epaules x_gauche="636" y_gauche="215" x_droit="752" y_droit="213" />
+        <tete x="693" y="136" />
+    </pose>
+
+    <pose>
+        <photo lien="Poses/Pose4Photo.png" />
+        <pieds x_gauche="714" y_gauche="637" x_droit="743" y_droit="492" />
+        <genoux x_gauche="706" y_gauche="484" x_droit="819" y_droit="395" />
+        <coudes x_gauche="604" y_gauche="123" x_droit="775" y_droit="124" />
+        <mains x_gauche="687" y_gauche="64" x_droit="695" y_droit="82" />
+        <epaules x_gauche="634" y_gauche="188" x_droit="739" y_droit="181" />
+        <tete x="686" y="121" />
+    </pose>
+
+    <pose>
+        <photo lien="Poses/Pose5Photo.png" />
+        <pieds x_gauche="643" y_gauche="634" x_droit="764" y_droit="652" />
+        <genoux x_gauche="666" y_gauche="506" x_droit="722" y_droit="510" />
+        <coudes x_gauche="593" y_gauche="243" x_droit="788" y_droit="238" />
+        <mains x_gauche="571" y_gauche="166" x_droit="814" y_droit="327" />
+        <epaules x_gauche="648" y_gauche="226" x_droit="714" y_droit="206" />
+        <tete x="674" y="131" />
+    </pose>
+
+    <pose>
+        <photo lien="Poses/Pose6Photo.png" />
+        <pieds x_gauche="481" y_gauche="622" x_droit="751" y_droit="640" />
+        <genoux x_gauche="564" y_gauche="510" x_droit="756" y_droit="524" />
+        <coudes x_gauche="600" y_gauche="206" x_droit="819" y_droit="311" />
+        <mains x_gauche="529" y_gauche="132" x_droit="814" y_droit="294" />
+        <epaules x_gauche="661" y_gauche="279" x_droit="749" y_droit="303" />
+        <tete x="740" y="236" />
+    </pose>
+
+    <pose>
+        <photo lien="Poses/Pose7Photo.png" />
+        <pieds x_gauche="461" y_gauche="633" x_droit="793" y_droit="663" />
+        <genoux x_gauche="515" y_gauche="506" x_droit="760" y_droit="514" />
+        <coudes x_gauche="600" y_gauche="457" x_droit="691" y_droit="454" />
+        <mains x_gauche="638" y_gauche="557" x_droit="648" y_droit="570" />
+        <epaules x_gauche="592" y_gauche="375" x_droit="692" y_droit="373" />
+        <tete x="640" y="299" />
+    </pose>
+
+    <pose>
+        <photo lien="Poses/Pose8Photo.png" />
+        <pieds x_gauche="472" y_gauche="484" x_droit="700" y_droit="648" />
+        <genoux x_gauche="557" y_gauche="373" x_droit="687" y_droit="516" />
+        <coudes x_gauche="640" y_gauche="258" x_droit="815" y_droit="330" />
+        <mains x_gauche="650" y_gauche="185" x_droit="799" y_droit="414" />
+        <epaules x_gauche="706" y_gauche="240" x_droit="789" y_droit="245" />
+        <tete x="763" y="158" />
+    </pose>
+</lesPoses>

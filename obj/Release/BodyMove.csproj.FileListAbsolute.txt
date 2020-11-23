@@ -1,0 +1,17 @@
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\bin\Release\BodyMove.exe.config
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\bin\Release\BodyMove.exe
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\bin\Release\BodyMove.pdb
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\bin\Release\Microsoft.Kinect.dll
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\bin\Release\Microsoft.Kinect.xml
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\BodyMove.csprojAssemblyReference.cache
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\MainWindow.g.cs
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\App.g.cs
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\BodyMove_MarkupCompile.cache
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\BodyMove_MarkupCompile.lref
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\MainWindow.baml
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\BodyMove.g.resources
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\BodyMove.Properties.Resources.resources
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\BodyMove.csproj.GenerateResource.cache
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\BodyMove.csproj.CopyComplete
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\BodyMove.exe
+D:\Bureau\DEC\Jeux videos\Projet2\BodyMove\obj\Release\BodyMove.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Name="Jeu" x:Class="BodyMove.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BodyMove"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="White" WindowState="Maximized" WindowStartupLocation="CenterScreen">
+    <Grid Background="{DynamicResource {x:Static SystemColors.ActiveCaptionTextBrushKey}}">
+        <MediaElement Name="musique" LoadedBehavior="Manual" HorizontalAlignment="Left" Height="100" Margin="48,271,0,0" VerticalAlignment="Top" Width="100" MediaEnded="musique_MediaEnded"/>
+
+        <Image Name="ImageCameraPrincipale" Width="1280" Height="720"/>
+        <Canvas Width="1280" Height="720" Name="CanvasCameraPrincipale">
+        </Canvas>
+        <Image Name="imgPose"  Width="1280" Height="720"/>
+        <Canvas Name="menuPause" Width="1280" Height="720" Visibility="Hidden">
+            <Rectangle Width="1280" Height="720">
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="White"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Label Name="lb_Pause" Content="Pause" Foreground="Red" FontSize="36" Margin="656,250,10,285"></Label>
+        </Canvas>
+        <Image Name="ImageCameraVignette" Margin="35,30,0,0" HorizontalAlignment="Left" Width="253" Height="162" VerticalAlignment="Top"/>
+        <Canvas Name="CanvasCameraVignette" Margin="35,30,0,0" HorizontalAlignment="Left" Width="253" Height="162" VerticalAlignment="Top"/>
+        <Label Name="ChronoLabel" Content="15" Foreground="Red" FontSize="36" Margin="656,30,10,285"></Label>
+    </Grid>
+</Window>
